@@ -1,0 +1,387 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Cakely\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-05-03T02:24:47+00:00\n"
+"PO-Revision-Date: 2024-05-03 02:24:38+0000\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Small"
+msgstr "Mică"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Medium"
+msgstr "Medie"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Large"
+msgstr "Mare"
+
+#. Description of the theme
+#: style.css
+msgid "Cakely is a business theme with a vibrant colour. It's perfect for bakers or cake makers who would like to turn their passion into a side hustle."
+msgstr "Cakely este o temă pentru afaceri în colori vii. Este perfectă pentru cofetarii și patiserii care ar dori să-și transforme pasiunea și în vânzări."
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Antet"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Subsol"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Sidebar"
+msgstr "Bară laterală"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Site Notice"
+msgstr "Notificări site"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Foarte mare"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Double Extra Large"
+msgstr "Foarte mare dublu"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Triple Extra Large"
+msgstr "Foarte mare triplu"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Comments"
+msgstr "Comentarii"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Mare"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Mediu"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Secundară"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Accent / Two"
+msgstr "Accent/doi"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr "Foarte mic"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Mic"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Accent / One"
+msgstr "Accent/unu"
+
+#: patterns/banner-masthead.php
+msgctxt "Pattern title"
+msgid "Masthead"
+msgstr "Titlu principal"
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Default Footer"
+msgstr "Subsol implicit"
+
+#: patterns/header.php
+msgctxt "Pattern title"
+msgid "Default Header"
+msgstr "Antet implicit"
+
+#: patterns/hidden-404.php
+msgctxt "Pattern title"
+msgid "404"
+msgstr "404"
+
+#: patterns/hidden-no-results-content.php
+msgctxt "Pattern title"
+msgid "No Results Content"
+msgstr "Nu am găsit conținut"
+
+#: patterns/hidden-sidebar.php
+msgctxt "Pattern title"
+msgid "Sidebar"
+msgstr "Bară laterală"
+
+#: patterns/posts-post-list.php
+msgctxt "Pattern title"
+msgid "Post List"
+msgstr "Listă cu articole"
+
+#: patterns/text-testimonials.php
+msgctxt "Pattern title"
+msgid "Testimonials"
+msgstr "Testimoniale"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page Gallery"
+msgstr "Galerie cu pagini"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr "Bază"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Contrast"
+msgstr "Contrast"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Principală"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page with Featured Image"
+msgstr "Pagină cu imagine reprezentativă"
+
+#: patterns/posts-recent-posts.php
+msgctxt "Pattern title"
+msgid "Recent Posts"
+msgstr "Articole recente"
+
+#: patterns/hidden-search-field.php
+msgctxt "Pattern title"
+msgid "Search field"
+msgstr "Câmp de căutare"
+
+#: patterns/gallery-instagram-gallery.php
+msgctxt "Pattern title"
+msgid "Instagram Gallery"
+msgstr "Galerie Instagram"
+
+#: patterns/gallery-collection.php
+msgctxt "Pattern title"
+msgid "Collection"
+msgstr "Colecție"
+
+#: patterns/cta-content-image-on-right.php
+msgctxt "Pattern title"
+msgid "Call to action with image on right"
+msgstr "Îndemn la acțiune cu o imagine în dreapta"
+
+#: patterns/banner-site-notice.php
+msgctxt "Pattern title"
+msgid "Site Notice"
+msgstr "Notificări site"
+
+#: patterns/text-testimonials.php:19
+msgid "Happy Customers"
+msgstr "Clienți mulțumiți"
+
+#: patterns/text-testimonials.php:77
+msgid "— Emily, Lindfield"
+msgstr "- Emily, Lindfield"
+
+#: patterns/text-testimonials.php:57
+msgid "— James, Scaynes Hill"
+msgstr "- James, Scaynes Hill"
+
+#: patterns/text-testimonials.php:37
+msgid "— Sophie, Haywards Heath"
+msgstr "- Sophie, Haywards Heath"
+
+#: patterns/posts-recent-posts.php:27
+msgid "Read<br>All Posts &rarr;"
+msgstr "Citește<br>toate articolele &rarr;"
+
+#: patterns/posts-recent-posts.php:19
+msgid "On the Blog"
+msgstr "Pe blog"
+
+#: patterns/hidden-sidebar.php:52
+msgid "Categories"
+msgstr "Categorii"
+
+#: patterns/hidden-sidebar.php:62
+msgid "Tags"
+msgstr "Etichete"
+
+#: patterns/hidden-sidebar.php:42
+msgid "Stay updated with our latest news and recipes by joining our newsletter."
+msgstr "Înregistrează-te la buletinul nostru de știri ca să fii la curent cu ultimele rețete și alte noutăți."
+
+#. Translators: WordPress link.
+#: patterns/footer.php:96
+msgid "Designed with %1$s"
+msgstr "Proiectat cu %1$s"
+
+#: patterns/gallery-instagram-gallery.php:15
+msgid "Follow us on Instagram"
+msgstr "Urmărește-ne pe Instagram"
+
+#: patterns/hidden-404.php:14
+msgid "Page Not Found"
+msgstr "Nu am găsit pagina"
+
+#: patterns/hidden-no-results-content.php:12
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Regret, dar nu s-a potrivit nimic cu termenii tăi de căutare. Te rog încearcă din nou cu alte cuvinte cheie."
+
+#: patterns/hidden-search-field.php:11
+msgctxt "This is a placeholder text in a search field"
+msgid "Search..."
+msgstr "Căutare..."
+
+#: patterns/hidden-sidebar.php:16
+msgid "Welcome!"
+msgstr "Bine ai venit!"
+
+#: patterns/hidden-sidebar.php:38
+msgid "Subscribe"
+msgstr "Abonare"
+
+#: patterns/gallery-collection.php:33
+#: patterns/gallery-collection.php:53
+#: patterns/gallery-collection.php:72
+#: patterns/gallery-collection.php:92
+#: patterns/gallery-collection.php:112
+msgid "£45.00"
+msgstr "45 £"
+
+#: patterns/gallery-collection.php:49
+msgid "Chocolate Lovers Cake"
+msgstr "Prăjitură pentru iubitorii de ciocolată"
+
+#: patterns/gallery-collection.php:68
+msgid "Lemon Raspberry Cake"
+msgstr "Prăjitură cu lămâie și zmeură"
+
+#: patterns/gallery-collection.php:29
+msgid "Cotton Candy Cake"
+msgstr "Prăjitură cu vată de zahăr"
+
+#: patterns/gallery-collection.php:108
+msgid "Caramel Crunch Cake"
+msgstr "Prăjitură crocantă cu caramel"
+
+#: patterns/hidden-404.php:22
+msgid "The page you are looking for does not exist, or it has been moved. Please try searching using the form below."
+msgstr "Pagina pe care o cauți nu există sau a fost mutată. Te rog să încerci o căutare folosind formularul de mai jos."
+
+#: patterns/gallery-collection.php:124
+msgid "See<br>More<br>Cakes &rarr;"
+msgstr "Vezi<br>mai multe<br>prăjituri &rarr;"
+
+#: patterns/gallery-collection.php:15
+msgid "Cake collection"
+msgstr "Colecție de prăjituri"
+
+#: patterns/footer.php:66
+msgid "Contact"
+msgstr "Contact"
+
+#: patterns/footer.php:70
+msgid "Privacy and Cookies"
+msgstr "Confidențialitate și cookie-uri"
+
+#: patterns/footer.php:93
+msgid "https://wordpress.org"
+msgstr "https://wordpress.org"
+
+#: patterns/footer.php:54
+msgid "Instagram"
+msgstr "Instagram"
+
+#: patterns/footer.php:58
+msgid "TikTok"
+msgstr "TikTok"
+
+#: patterns/footer.php:62
+msgid "About"
+msgstr "Despre"
+
+#: patterns/cta-content-image-on-right.php:23
+msgid "About Us"
+msgstr "Despre noi"
+
+#: patterns/cta-content-image-on-right.php:35
+msgid "Read more"
+msgstr "Citește mai multe"
+
+#: patterns/footer.php:50
+msgid "Facebook"
+msgstr "Facebook"
+
+#: patterns/footer.php:42
+msgid "hello@example.com"
+msgstr "hello@example.com"
+
+#: patterns/footer.php:38
+msgid "(012)345-6789"
+msgstr "(012)345-6789"
+
+#: patterns/footer.php:34
+msgid "123 High Street,<br>Scaynes Hill,<br>Haywards Heath<br>CB12 3PJ"
+msgstr "123 High Street,<br>Scaynes Hill,<br>Haywards Heath<br>CB12 3PJ"
+
+#: patterns/banner-site-notice.php:16
+msgid "tel:0123456789"
+msgstr "telefon: 0123456789"
+
+#: patterns/banner-site-notice.php:18
+msgid "Order by 4pm for next day delivery・%1$s"
+msgstr "Comandă până la ora 16:00 pentru livrare în ziua următoare・%1$s"
+
+#: patterns/banner-masthead.php:77
+msgid "Cupcakes"
+msgstr "Brioșe"
+
+#: patterns/banner-masthead.php:41
+msgid "Cakes"
+msgstr "Prăjituri"
+
+#: patterns/banner-masthead.php:65
+msgid "Macarons"
+msgstr "Macarons"
+
+#: patterns/banner-masthead.php:53
+msgid "Weddings &amp; Events"
+msgstr "Nunți și evenimente"
+
+#: patterns/banner-masthead.php:29
+msgid "Our Specialities"
+msgstr "Specialitățile noastre"
+
+#: patterns/banner-masthead.php:17
+msgid "Cake Delivery in Scaynes Hill"
+msgstr "Livrare prăjituri în Scaynes Hill"

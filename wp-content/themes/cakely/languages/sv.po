@@ -1,0 +1,371 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Cakely\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-05-04T02:25:28+00:00\n"
+"PO-Revision-Date: 2024-05-03 08:09:31+0000\n"
+"Language: sv_SE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Double Extra Large"
+msgstr "Dubbelt extra stor"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Extra Small"
+msgstr "Extra liten"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Small"
+msgstr "Liten"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Medium"
+msgstr "Medium"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Large"
+msgstr "Stor"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Extra Large"
+msgstr "Extra stor"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Sidhuvud"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Sidfot"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Sidebar"
+msgstr "Sidopanel"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Extra stor"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Double Extra Large"
+msgstr "Dubbelt extra stor"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Triple Extra Large"
+msgstr "Trippel extra stor"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Comments"
+msgstr "Kommentarer"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Stor"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Medium"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Sekundär"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Accent / One"
+msgstr "Accent/ett"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Accent / Two"
+msgstr "Accent/två"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr "Extra liten"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Liten"
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Default Footer"
+msgstr "Standardsidfot"
+
+#: patterns/header.php
+msgctxt "Pattern title"
+msgid "Default Header"
+msgstr "Standardsidhuvud"
+
+#: patterns/hidden-404.php
+msgctxt "Pattern title"
+msgid "404"
+msgstr "404"
+
+#: patterns/hidden-no-results-content.php
+msgctxt "Pattern title"
+msgid "No Results Content"
+msgstr "Inget resultatinnehåll"
+
+#: patterns/hidden-sidebar.php
+msgctxt "Pattern title"
+msgid "Sidebar"
+msgstr "Sidopanel"
+
+#: patterns/posts-post-list.php
+msgctxt "Pattern title"
+msgid "Post List"
+msgstr "Inläggslista"
+
+#: patterns/text-testimonials.php
+msgctxt "Pattern title"
+msgid "Testimonials"
+msgstr "Omdömen"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page Gallery"
+msgstr "Sidgalleri"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr "Bas"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Contrast"
+msgstr "Kontrast"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Primär"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page with Featured Image"
+msgstr "Sida med utvald bild"
+
+#: patterns/posts-recent-posts.php
+msgctxt "Pattern title"
+msgid "Recent Posts"
+msgstr "Senaste inläggen"
+
+#: patterns/hidden-search-field.php
+msgctxt "Pattern title"
+msgid "Search field"
+msgstr "Sökfält"
+
+#: patterns/gallery-instagram-gallery.php
+msgctxt "Pattern title"
+msgid "Instagram Gallery"
+msgstr "Instagram-galleri"
+
+#: patterns/gallery-collection.php
+msgctxt "Pattern title"
+msgid "Collection"
+msgstr "Samling"
+
+#: patterns/cta-content-image-on-right.php
+msgctxt "Pattern title"
+msgid "Call to action with image on right"
+msgstr "Uppmaning till åtgärd med bild till höger"
+
+#: patterns/banner-masthead.php
+msgctxt "Pattern title"
+msgid "Masthead"
+msgstr "Masthead"
+
+#: patterns/text-testimonials.php:19
+msgid "Happy Customers"
+msgstr "Nöjda kunder"
+
+#: patterns/posts-recent-posts.php:19
+msgid "On the Blog"
+msgstr "På bloggen"
+
+#: patterns/text-testimonials.php:77
+msgid "— Emily, Lindfield"
+msgstr "– Emily, Lindfield"
+
+#: patterns/text-testimonials.php:57
+msgid "— James, Scaynes Hill"
+msgstr "– James, Scaynes Hill"
+
+#: patterns/text-testimonials.php:37
+msgid "— Sophie, Haywards Heath"
+msgstr "– Sophie, Haywards Heath"
+
+#: patterns/posts-recent-posts.php:27
+msgid "Read<br>All Posts &rarr;"
+msgstr "Läs<br>alla inlägg &rarr;"
+
+#: patterns/hidden-sidebar.php:52
+msgid "Categories"
+msgstr "Kategorier"
+
+#: patterns/hidden-sidebar.php:62
+msgid "Tags"
+msgstr "Etiketter"
+
+#: patterns/hidden-sidebar.php:42
+msgid "Stay updated with our latest news and recipes by joining our newsletter."
+msgstr "Håll dig uppdaterad med våra senaste nyheter och recept genom att gå med i vårt nyhetsbrev."
+
+#. Translators: WordPress link.
+#: patterns/footer.php:96
+msgid "Designed with %1$s"
+msgstr "Designad med %1$s"
+
+#: patterns/gallery-instagram-gallery.php:15
+msgid "Follow us on Instagram"
+msgstr "Följ oss på Instagram"
+
+#: patterns/hidden-404.php:14
+msgid "Page Not Found"
+msgstr "Sidan hittades inte"
+
+#: patterns/hidden-no-results-content.php:12
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Inget matchade dina söktermer. Försök igen med några andra nyckelord."
+
+#: patterns/hidden-search-field.php:11
+msgctxt "This is a placeholder text in a search field"
+msgid "Search..."
+msgstr "Sök …"
+
+#: patterns/hidden-sidebar.php:16
+msgid "Welcome!"
+msgstr "Välkommen!"
+
+#: patterns/hidden-sidebar.php:38
+msgid "Subscribe"
+msgstr "Prenumerera"
+
+#: patterns/gallery-collection.php:124
+msgid "See<br>More<br>Cakes &rarr;"
+msgstr "Se<br>fler<br>tårtor &rarr;"
+
+#: patterns/hidden-404.php:22
+msgid "The page you are looking for does not exist, or it has been moved. Please try searching using the form below."
+msgstr "Sidan du letar efter finns inte, eller så har den flyttats. Försök att söka med formuläret nedan."
+
+#: patterns/gallery-collection.php:15
+msgid "Cake collection"
+msgstr "Tårtsamling"
+
+#: patterns/gallery-collection.php:68
+msgid "Lemon Raspberry Cake"
+msgstr "Citron- och hallontårta"
+
+#: patterns/gallery-collection.php:33
+#: patterns/gallery-collection.php:53
+#: patterns/gallery-collection.php:72
+#: patterns/gallery-collection.php:92
+#: patterns/gallery-collection.php:112
+msgid "£45.00"
+msgstr "£45.00"
+
+#: patterns/footer.php:66
+msgid "Contact"
+msgstr "Kontakt"
+
+#: patterns/footer.php:70
+msgid "Privacy and Cookies"
+msgstr "Integritet och cookies"
+
+#: patterns/footer.php:93
+msgid "https://wordpress.org"
+msgstr "https://sv.wordpress.org"
+
+#: patterns/footer.php:54
+msgid "Instagram"
+msgstr "Instagram"
+
+#: patterns/footer.php:58
+msgid "TikTok"
+msgstr "TikTok"
+
+#: patterns/footer.php:62
+msgid "About"
+msgstr "Om"
+
+#: patterns/cta-content-image-on-right.php:23
+msgid "About Us"
+msgstr "Om oss"
+
+#: patterns/cta-content-image-on-right.php:35
+msgid "Read more"
+msgstr "Läs mer"
+
+#: patterns/footer.php:50
+msgid "Facebook"
+msgstr "Facebook"
+
+#: patterns/footer.php:42
+msgid "hello@example.com"
+msgstr "hello@example.com"
+
+#: patterns/banner-site-notice.php:18
+msgid "Order by 4pm for next day delivery・%1$s"
+msgstr "Beställ senast 16:00 för leverans nästa dag・%1$s"
+
+#: patterns/banner-site-notice.php:16
+msgid "tel:0123456789"
+msgstr "tel:0123456789"
+
+#: patterns/footer.php:34
+msgid "123 High Street,<br>Scaynes Hill,<br>Haywards Heath<br>CB12 3PJ"
+msgstr "123 High Street,<br>Scaynes Hill,<br>Haywards Heath<br>CB12 3PJ"
+
+#: patterns/banner-masthead.php:77
+msgid "Cupcakes"
+msgstr "Cupcakes"
+
+#: patterns/banner-masthead.php:53
+msgid "Weddings &amp; Events"
+msgstr "Bröllop och evenemang"
+
+#: patterns/banner-masthead.php:41
+msgid "Cakes"
+msgstr "Tårtor"
+
+#: patterns/banner-masthead.php:29
+msgid "Our Specialities"
+msgstr "Våra specialiteter"
+
+#: patterns/banner-masthead.php:17
+msgid "Cake Delivery in Scaynes Hill"
+msgstr "Tårtleverans i Scaynes Hill"
+
+#: patterns/banner-masthead.php:65
+msgid "Macarons"
+msgstr "Macaron"
